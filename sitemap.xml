@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://darxtrix.in/</loc>
+  <lastmod>2017-05-21T16:50:42+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/about-me/</loc>
+  <lastmod>2017-05-21T16:50:42+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/tags/</loc>
+  <lastmod>2017-05-21T16:50:42+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/archives/</loc>
+  <lastmod>2017-05-21T16:50:42+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/gsoc16-syslog-ng-autorel-summary/</loc>
+  <lastmod>2017-05-21T16:50:42+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/dns-tunneling/</loc>
+  <lastmod>2017-05-21T16:50:42+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/gsoc16-with-syslog-ng/</loc>
+  <lastmod>2017-05-21T16:50:42+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/gsoc15-with-mailman-pre-end-term-report/</loc>
+  <lastmod>2017-05-21T16:50:42+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/gsoc15-with-mailman-mid-term-report/</loc>
+  <lastmod>2017-05-21T16:50:42+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/gsoc15-with-mailman-progress-report-ii/</loc>
+  <lastmod>2017-05-21T16:50:42+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/page2/</loc>
+  <lastmod>2017-05-21T16:50:42+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/page3/</loc>
+  <lastmod>2017-05-21T16:50:42+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/gsoc15-with-mailman-progress-report-i/</loc>
+  <lastmod>2017-05-21T16:50:42+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/gsoc15-proposal-mailman.client-written-in-js/</loc>
+  <lastmod>2017-05-21T16:50:42+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-gsoc-proposal-accepted/</loc>
+  <lastmod>2017-05-21T16:50:42+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-journey/</loc>
+  <lastmod>2017-05-21T16:50:42+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/javascript-prototypes/</loc>
+  <lastmod>2017-05-21T16:50:42+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/awesome-trackers/</loc>
+  <lastmod>2017-05-21T16:50:42+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/hello-world/</loc>
+  <lastmod>2017-05-21T16:50:42+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-cli/</loc>
+  <lastmod>2015-08-03T17:38:47+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-client-docs/</loc>
+  <lastmod>2015-08-10T16:58:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-cli/lib/index.html</loc>
+  <lastmod>2015-08-03T17:38:47+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-cli/lib/shared/index.html</loc>
+  <lastmod>2015-08-03T17:38:47+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-cli/lib/utils/index.html</loc>
+  <lastmod>2015-08-03T17:38:47+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-client-docs/classes/Address.html</loc>
+  <lastmod>2015-08-10T16:58:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-client-docs/classes/Addresses.html</loc>
+  <lastmod>2015-08-10T16:58:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-client-docs/classes/ApiRequest.html</loc>
+  <lastmod>2015-08-10T16:58:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-client-docs/classes/BaseRequest.html</loc>
+  <lastmod>2015-08-10T16:58:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-client-docs/classes/Client.html</loc>
+  <lastmod>2015-08-10T16:58:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-client-docs/classes/Domain.html</loc>
+  <lastmod>2015-08-10T16:58:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-client-docs/classes/List.html</loc>
+  <lastmod>2015-08-10T16:58:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-client-docs/classes/ListArchivers.html</loc>
+  <lastmod>2015-08-10T16:58:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-client-docs/classes/Member.html</loc>
+  <lastmod>2015-08-10T16:58:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-client-docs/classes/Page.html</loc>
+  <lastmod>2015-08-10T16:58:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-client-docs/classes/Preferences.html</loc>
+  <lastmod>2015-08-10T16:58:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-client-docs/classes/Settings.html</loc>
+  <lastmod>2015-08-10T16:58:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-client-docs/classes/User.html</loc>
+  <lastmod>2015-08-10T16:58:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-client-docs/modules/Address.html</loc>
+  <lastmod>2015-08-10T16:58:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-client-docs/modules/Addresses.html</loc>
+  <lastmod>2015-08-10T16:58:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-client-docs/modules/ApiRequest.html</loc>
+  <lastmod>2015-08-10T16:58:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-client-docs/modules/BaseRequest.html</loc>
+  <lastmod>2015-08-10T16:58:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-client-docs/modules/Domain.html</loc>
+  <lastmod>2015-08-10T16:58:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-client-docs/modules/List.html</loc>
+  <lastmod>2015-08-10T16:58:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-client-docs/modules/ListArchivers.html</loc>
+  <lastmod>2015-08-10T16:58:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-client-docs/modules/mailman-client.html</loc>
+  <lastmod>2015-08-10T16:58:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-client-docs/modules/Member.html</loc>
+  <lastmod>2015-08-10T16:58:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-client-docs/modules/Page.html</loc>
+  <lastmod>2015-08-10T16:58:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-client-docs/modules/Preferences.html</loc>
+  <lastmod>2015-08-10T16:58:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-client-docs/modules/Settings.html</loc>
+  <lastmod>2015-08-10T16:58:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-client-docs/modules/User.html</loc>
+  <lastmod>2015-08-10T16:58:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-cli/index.html</loc>
+  <lastmod>2015-08-03T17:38:47+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-cli/lib/Address.js.html</loc>
+  <lastmod>2015-08-03T17:38:47+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-cli/lib/Addresses.js.html</loc>
+  <lastmod>2015-08-03T17:38:47+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-cli/lib/Client.js.html</loc>
+  <lastmod>2015-08-03T17:38:47+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-cli/lib/Domain.js.html</loc>
+  <lastmod>2015-08-03T17:38:47+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-cli/lib/List.js.html</loc>
+  <lastmod>2015-08-03T17:38:47+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-cli/lib/ListArchivers.js.html</loc>
+  <lastmod>2015-08-03T17:38:47+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-cli/lib/Member.js.html</loc>
+  <lastmod>2015-08-03T17:38:47+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-cli/lib/Page.js.html</loc>
+  <lastmod>2015-08-03T17:38:47+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-cli/lib/Preferences.js.html</loc>
+  <lastmod>2015-08-03T17:38:47+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-cli/lib/Settings.js.html</loc>
+  <lastmod>2015-08-03T17:38:47+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-cli/lib/User.js.html</loc>
+  <lastmod>2015-08-03T17:38:47+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-cli/lib/shared/ApiRequest.js.html</loc>
+  <lastmod>2015-08-03T17:38:47+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-cli/lib/shared/BaseRequest.js.html</loc>
+  <lastmod>2015-08-03T17:38:47+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-cli/lib/utils/index.js.html</loc>
+  <lastmod>2015-08-03T17:38:47+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-client-docs/files/lib_Address.js.html</loc>
+  <lastmod>2015-08-10T16:58:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-client-docs/files/lib_shared_ApiRequest.js.html</loc>
+  <lastmod>2015-08-10T16:58:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-client-docs/files/lib_shared_BaseRequest.js.html</loc>
+  <lastmod>2015-08-10T16:58:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-client-docs/files/lib_utils_index.js.html</loc>
+  <lastmod>2015-08-10T16:58:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-client-docs/files/lib_Addresses.js.html</loc>
+  <lastmod>2015-08-10T16:58:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-client-docs/files/lib_Client.js.html</loc>
+  <lastmod>2015-08-10T16:58:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-client-docs/files/lib_Domain.js.html</loc>
+  <lastmod>2015-08-10T16:58:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-client-docs/files/lib_List.js.html</loc>
+  <lastmod>2015-08-10T16:58:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-client-docs/files/lib_ListArchivers.js.html</loc>
+  <lastmod>2015-08-10T16:58:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-client-docs/files/lib_Member.js.html</loc>
+  <lastmod>2015-08-10T16:58:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-client-docs/files/lib_Page.js.html</loc>
+  <lastmod>2015-08-10T16:58:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-client-docs/files/lib_Preferences.js.html</loc>
+  <lastmod>2015-08-10T16:58:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-client-docs/files/lib_Settings.js.html</loc>
+  <lastmod>2015-08-10T16:58:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://darxtrix.in/mailman-client-docs/files/lib_User.js.html</loc>
+  <lastmod>2015-08-10T16:58:31+00:00</lastmod>
+</url>
+</urlset>

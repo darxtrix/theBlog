@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<!-- Posts -->
+<ul id="posts">
+
+{% for post in paginator.posts %}
+<!-- Post tagging -->
+    <ul class="tags">
+        {% for tag in post.tags %}
+          <li><a href="/tags#{{ tag }}" class="tag">{{ tag }}</a></li>
+        {% endfor %}
+    </ul>
+    <li class="post">
+    	<h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+    	<span class="by-line">{{ post.date | date_to_string }}</span>
+    	<p>{{ post.content | strip_html | truncatewords:20 }}</p>
+    </li>
+
+{% endfor %}
+
+</ul>

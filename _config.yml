@@ -1,0 +1,41 @@
+# Site settings
+title: Ankush Sharma | Counting infinities
+name : Counting infinities
+description: "Some infinities of my life"
+url: "http://darxtrix.in"
+author:
+  name: "Ankush Sharma"
+  url: "https://github.com/black-perl"
+
+# Build settings
+baseurl:  # Change this to your relative path (ex: /blog/), or leave just a /
+source: . # where files are located
+destination: ./_site
+permalink: /:title
+
+# pagination
+paginate: 6
+paginate_path: /page:num/
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Conversion
+markdown:    kramdown
+highlighter: pygments #syntax highlighter
+lsi:         false
+excerpt_separator: "\n\n"
+
+# Plugins
+whitelist: []
+gems:      ["jekyll-paginate","jekyll-gist","emoji_for_jekyll","pygments"]
+
+twitter_username : darxtrix
+
+

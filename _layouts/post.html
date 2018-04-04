@@ -1,0 +1,41 @@
+---
+layout: default
+---
+<div id="post-page">
+	<!-- Adding tags -->
+	<ul class="tags">
+		{% for tag in page.tags %}
+			<li>
+				<a href="/tags#{{ tag }}" class="tag">{{ tag }}</a>
+			</li>
+		{% endfor %}
+	</ul>
+	<h2>{{ page.title }}</h2>		
+	<span class="by-line">{{ page.date | date_to_string }}</span>
+	<div class="content">
+
+		{{ content }}
+		
+	</div>
+
+	<br/>
+
+	<p class = "share-page"> <b> Share this post: </b> </p>
+
+	<div class="share-page">
+	    <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Share on Twitter">
+	    	<img class="share-buttons" src="{{ "/img/social/twitter_share.png" | prepend: site.baseurl }}" alt="twitter share button">
+	    </a>
+	    <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook">
+	    	<img class="share-buttons" src="{{ "/img/social/facebook_share.png" | prepend: site.baseurl }}" alt="facebook share button">
+	    </a>
+	    <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Google+">
+	    	<img class="share-buttons" src="{{ "/img/social/googleplus_share.png" | prepend: site.baseurl }}" alt="googleplus share button">
+	    </a>
+	</div>
+
+	<br/>
+	<!-- Comment thread -->
+	<div id="disqus_thread"></div>
+</div>
+
