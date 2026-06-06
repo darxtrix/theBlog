@@ -20,7 +20,7 @@ Then I went on to implement classes analogous to *_Addresses*,  *_Address*,  *_P
 <br/>
 
 ### Current Work
-A bunch of above mentioned modules has been completely unit tested but due to recent code changes some of the tests are failing :cold_sweat:, so working on the testing part at current.
+A bunch of above mentioned modules has been completely unit tested but due to recent code changes some of the tests are failing 😰, so working on the testing part at current.
 
 ### Future work
 After finishing testing I will jump on to implement the left modules *List*, *Domain*, *Client* etc. After that, I will improve the code quality by using code linting and time profiling tools. And, yeah documentation !

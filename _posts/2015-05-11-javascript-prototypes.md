@@ -29,7 +29,7 @@ This is how a property lookup is achieved along the chain:
 > its parent object is asked... continually **up the chain** until 
 > the property is found or until the **root** object is reached.
 
-A bit confused :confused:. Don't worry just get yourself confortable; we will see this by an example in a later section.
+A bit confused 😕. Don't worry just get yourself confortable; we will see this by an example in a later section.
 
 ### `prototype`&nbsp;&nbsp; v/s &nbsp; `__proto__` 
 
@@ -123,7 +123,7 @@ So, we put all the properties which we want the instantiated objects to inherit 
 
 This post covered the basics of how inheritance works in JavaScript.I will be continuing my next blog post on more advanced stuff covering *prototype chain* and its *propagation*. 
 
-Stay in touch :wink: and feel free to ask questions !
+Stay in touch 😉 and feel free to ask questions !
 
 
 

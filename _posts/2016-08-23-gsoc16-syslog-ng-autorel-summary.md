@@ -32,7 +32,7 @@ The Sequence Diagram describes the project structure:
 ** (*) Indicates multiple methods **
 
 ## Deliverables
-I created [syslog-ng-autorel](https://github.com/black-perl/syslog-ng-autorel/tree/test) for providing the above functionality. The `README.md` file has the usage instructions. Go! get your hands dirty with it :smile:
+I created [syslog-ng-autorel](https://github.com/black-perl/syslog-ng-autorel/tree/test) for providing the above functionality. The `README.md` file has the usage instructions. Go! get your hands dirty with it 😄
 
 ## Challenges and Roadblocks
 I encountered lot of roadblocks during the project and some away from the computer world too. I suffered a full body infection that effected my senses. At one point, it became very difficult to cope with things and I was thinking to leave the project. Thanks to my awesome mentors, [Laszlo Budai](https://www.facebook.com/laszlo.budai.9822) and [Laszlo Varady](https://www.facebook.com/MrAnno). They let me take some time off and were more than supportive.
@@ -54,10 +54,8 @@ Coming back to the project, these are the roadblocks I would like to highlight:
 
 Here is the architectural design of my [changelog_generator](https://github.com/black-perl/syslog-ng-autorel/tree/test/autorel/changelog_generator) module. And, it feels great when you implement it using the SOLID principles. Thanks, [Laszlo Varady](https://www.facebook.com/MrAnno) for this.
 
-![Changelog Generator](https://camo.githubusercontent.com/65a35fd275d531e027cb6e4c49d5c74969187472/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f31363632363435382f4f2f6368616e67656c6f672e737667)
-
 - ### Changelog Generation:
-    Changelog generation is the process of generating detailed log between two releases incorporating the **merged pull requests**, **fixed issues**, **bugs**, **enhancements** etc. Why changelog, go [here](http://keepachangelog.com/en/0.3.0/). We need a changelog now :smile: I used the following algorithm for generating the changelog:
+    Changelog generation is the process of generating detailed log between two releases incorporating the **merged pull requests**, **fixed issues**, **bugs**, **enhancements** etc. Why changelog, go [here](http://keepachangelog.com/en/0.3.0/). We need a changelog now 😄 I used the following algorithm for generating the changelog:
     - Find the list of commits between two releases.
     - syslog-ng enforces commit patterns. For eg.
          ```
@@ -84,7 +82,7 @@ Here is the architectural design of my [changelog_generator](https://github.com/
 
 
 ## Learnings
-Apart from adding some cool tool-chains to my arsenal, I found developing a good relationship with my mentors as the best experience of the GSoC project. I wouldn't have learned a single thing without their constant support. They are just awesome :smile: Let's get back to the new things I learned:
+Apart from adding some cool tool-chains to my arsenal, I found developing a good relationship with my mentors as the best experience of the GSoC project. I wouldn't have learned a single thing without their constant support. They are just awesome 😄 Let's get back to the new things I learned:
 
 - Controlling docker with Python
 - Practice of writing code with SOLID principles

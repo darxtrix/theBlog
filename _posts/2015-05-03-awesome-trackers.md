@@ -3,7 +3,7 @@ title : A list of awesome trackers
 tags : trackers
 ---
 
-<p> A curated list of some awesome trackers. Keep torrenting :beer: 
+<p> A curated list of some awesome trackers. Keep torrenting 🍺 
 </p>
 
 <p style="color:#7E0920;font-size:200%;font-weight:bold;">[udp]</p>

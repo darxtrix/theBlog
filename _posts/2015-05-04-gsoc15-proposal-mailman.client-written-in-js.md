@@ -18,7 +18,7 @@ This post will walk you through my proposal for GSoC'15 @ GNU Mailman. Along wit
 ![Mailman](../img/mailman.png)
 
 
-Now, the detailed proposal follows :sweat_smile:
+Now, the detailed proposal follows 😅
 <br/>
 <br/>
 
@@ -58,11 +58,11 @@ Also, the current client have hard-coded REST API endpoints in it's code. This w
 	- It would provide surety that the requested data from the server-side is written to the client-side and now you can do further processing on it. 
 	- This can be achieved by writing the request making methods **get()** , **post()** ,  **put()** , etc. in **asynchronous** way because they will pose blocking calls; so that callback function can be invoked after these request making functions have got the required data from the server side. For eg.  
 
-<br/>{% gist black-perl/2a7a4f5dd0633a1963a4 %}
+<br/><a href="https://gist.github.com/black-perl/2a7a4f5dd0633a1963a4">View code snippet (gist) →</a>
 
 - The API can offer a **query builder-style** syntax to let you craft the final **request object** by **chaining filters** and other **methods**. The chaining methods are **non-blocking** of course. The final request object will make request to the Mailman’s REST endpoints and it will be a **blocking** call. For example the following can be used to get the **members of a list** :  
 
-<br/>{% gist black-perl/190da71c294aeb876ddd %}
+<br/><a href="https://gist.github.com/black-perl/190da71c294aeb876ddd">View code snippet (gist) →</a>
                
 **Note :** The order of chaining may seem ambiguous at first as `client.auth().lists()` would be preferred over `client.lists().auth()` but I have mentioned the latter in context with the **Proof of Concept module [0]** for this project. There is no doubt to use the former while developing the actual client or **authentication** can be made implicit when a **username and password** is supplied during **client instantiation**.
 
@@ -86,22 +86,22 @@ The idea is to have a **base** request handling class that will provide methods 
 Further this class can be extended for adding support for client side filters if someone wants to implement. Let’s call it **RequestB**.
 
 <br/>
-![Request Class Inheritance](http://i.imgur.com/oUw2nfE.png)   
+![Request Class Inheritance](https://i.imgur.com/oUw2nfE.png)   
 
 
 - It would be good to handle the same category of endpoints by a single class. Like a **ListRequest class** for handling **/lists/*** endpoints.
 
 
-![Request Handling](http://i.imgur.com/WqRSdl6.png)
+![Request Handling](https://i.imgur.com/WqRSdl6.png)
 
 - Another idea is to make other classes such as **ListsRequest** i.e those created to offer the functionality of  **_List** , **_Domains** etc. as in **mailman.client** to inherit **RequestB** with the exception of the main **Client** class which will be the entry point for passing the **state** object. This will enable request dispatching directly from any **ListsRequest** instance using inherited **post()**, **get()** etc.
 
 - These all classes share a **state** object which gets its initial value from the user while instantiating a **Client** instance. This **state** object is then passed through and gets modified multiple times during chaining calls and is finally used to extract the information like **endpoint to request**, **auth variables** etc. Using this information a request is made. For example take the following query:
 
-{% gist 86188dc3276066ce0c89 %}
+<a href="https://gist.github.com/86188dc3276066ce0c89">View code snippet (gist) →</a>
 
 <br/>     
-![Request State Transfer](http://i.imgur.com/6Y7vcBy.jpg)
+![Request State Transfer](https://i.imgur.com/6Y7vcBy.jpg)
 
 
 - **WHAT to port and WHAT not to:**                                 
@@ -326,7 +326,7 @@ I have written a npm package that prototypes some of the expected functionality 
 
  
 
-Well, that's all for this post. See you next time :wink:
+Well, that's all for this post. See you next time 😉
 
 
 

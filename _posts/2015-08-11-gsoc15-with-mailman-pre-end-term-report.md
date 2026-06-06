@@ -13,7 +13,7 @@ An experimental version of the API documentation is up and running here : [http:
 
 To sum up, most of the implementation, testing and docs part is over. Currently working on better error propagation within the library and some minor features/patches. 
 
-Bye for now, stay in touch. :smiley:
+Bye for now, stay in touch. 😃
 
 
 

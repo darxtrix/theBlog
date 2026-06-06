@@ -1,0 +1,19 @@
+# Posts/talks hosted elsewhere. Woven into the year-wise list and linked out.
+# `source` sets the small marker shown on the right (e.g. "Medium ↗", "Talk ↗").
+- title: "Releasing ptop 1.0: A task manager written using Python"
+  url: "https://medium.com/@darxtrix/releasing-ptop-1-0-a-task-manager-written-using-python-879f63745034"
+  date: "2018-11-26"
+  source: Medium
+- title: "PushMan: The Koinex standard for realtime experience"
+  url: "https://medium.com/koinex-crunch/pushman-the-koinex-standard-for-realtime-experience-4122d2715c92"
+  date: "2018-09-03"
+  source: Medium
+  popular: true
+- title: "Visualizing data in terminal using lehar"
+  url: "https://medium.com/hackernoon/visualizing-data-in-terminal-using-lehar-7cfded09c1ad"
+  date: "2017-08-18"
+  source: Medium
+- title: "Python, the eyes of real world computer applications"
+  url: "https://www.youtube.com/watch?v=XP8SV42YcDo"
+  date: "2014-10-13"
+  source: Talk

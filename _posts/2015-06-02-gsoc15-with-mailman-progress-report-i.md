@@ -145,7 +145,7 @@ This can be achived by using a promise library. I find [BlueBird](https://github
 </pre>
 
 
-So, these were the desired expectations from the module. Now, some minor details :smiley:
+So, these were the desired expectations from the module. Now, some minor details 😃
 
 ### Structure of the BaseRequest constructor function:
 <pre>
@@ -174,7 +174,7 @@ So, these were the desired expectations from the module. Now, some minor details
 </pre>
 
 
-You can checkout the full implementation [here](https://gitlab.com/black-perl/mailman-client.js/blob/master/lib/shared/BaseRequest.js). If you have any queries, comment in. Stay in touch. :wink:
+You can checkout the full implementation [here](https://gitlab.com/black-perl/mailman-client.js/blob/master/lib/shared/BaseRequest.js). If you have any queries, comment in. Stay in touch. 😉
 
 
 
